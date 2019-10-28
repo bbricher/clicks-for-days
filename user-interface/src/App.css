@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #153983;
+  /* background-image: url(https://terrigen-cdn-dev.marvel.com/content/prod/1x/marvelsavengers_lob_crd_00.jpg);
+  opacity: .5; */
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.navbar {
+  background-color: #fc0303;
+  color: white;
+  font-weight: bolder;
+}
+
+.navbar > .navbar-brand {
+  font-size: 35px;
+}
+
+.App-link {
+  color: #09d3ac;
+}

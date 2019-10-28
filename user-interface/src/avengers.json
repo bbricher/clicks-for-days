@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Thor",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_com_crd_01.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Captain America",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap_com_crd_01.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Black Widow",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/011blw_com_crd_01.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Loki",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/771714._sx1280_ql80_ttd_c.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Iron Man",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_com_crd_01.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Spiderman",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_com_crd_01.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ant Man",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/010ant_com_crd_01.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Wasp",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/041wjd_com_crd_01.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Hulk",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/006hbb_com_crd_01.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Hawkeye",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/018hcb_com_crd_01.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Star Lord",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/c32f86-gotg3_post_master.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Groot",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/024grt_com_crd_01.jpg"
+    }    
+]
